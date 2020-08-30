@@ -1,2 +1,2 @@
-# ACME Corp Web Application
+# ACME Corp Application
 Data Visualization Application for ACME Corp.
